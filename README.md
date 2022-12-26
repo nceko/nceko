@@ -38,5 +38,5 @@
 <br clear="both">
 
 <div align="center">
-<img src="https://github.com/hermandev/hermandev/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/nceko/nceko/blob/output/ular.svg" alt="Snake animation" />
 </div>
