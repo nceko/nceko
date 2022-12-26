@@ -1,10 +1,9 @@
 ![logo](https://github.com/nceko/nceko/blob/main/LinkedIn%20cover%20-%201.png)
 <h1 align="center">Hi 👋, I'm Eko Hidayat ( nceko )</h1>
 <h3 align="center">I am a programmer from Gorontalo, Indonesia. I am working on a project related to web developer, full stack, frontend dev, backend dev and also learn about DevOps</h3>
+<br>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/115535901/209521988-af5504a7-dfc4-4c21-9ee1-6ae406ddfc94.png">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nceko&label=Profile%20views&color=0e75b6&style=flat" alt="nceko" /> </p>
 
 - 🔭 I’m currently working on **PT KLIK DATA INDONESIA**
 
@@ -15,6 +14,8 @@
 - 💬 Ask me about **Laravel and data analyst**
 
 - 📫 How to reach me **nc.ekohidayat@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nceko&label=Profile%20views&color=0e75b6&style=flat" alt="nceko" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
