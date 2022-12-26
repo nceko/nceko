@@ -32,6 +32,6 @@
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nceko&show_icons=true&locale=en&theme=gruvbox" alt="nceko" />
-  &ensp;&ensp;&ensp;
+  &ensp;
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nceko&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="nceko" />
 </p>
