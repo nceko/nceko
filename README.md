@@ -1,4 +1,8 @@
-<img border-radius="10%" src="https://github.com/nceko/nceko/blob/main/LinkedIn%20cover%20-%201.png">
+.clontong{
+    border-radius: 10%;
+}
+
+<img class="clontong" src="https://github.com/nceko/nceko/blob/main/LinkedIn%20cover%20-%201.png">
 
 <h1 align="center">Hi 👋, I'm Eko Hidayat ( nceko )</h1>
 <h3 align="center">I am a programmer from Gorontalo, Indonesia. I am working on a project related to web developer, full stack, frontend dev, backend dev and also learn about DevOps</h3>
