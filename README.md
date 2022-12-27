@@ -4,7 +4,7 @@
 <h3 align="center">I am a programmer from Gorontalo, Indonesia. I am working on a project related to web developer, full stack, frontend dev, backend dev and also learn about DevOps</h3>
 <br>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Frajacepat.com%2Fkarir-kiriman&psig=AOvVaw1whma8UznI8g-2IkolyaUV&ust=1672207109081000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCOgYiPmfwCFQAAAAAdAAAAABAI">
+<img align="right" alt="coding" width="400" src="https://rajacepat.com/assets/frontend/img/iOSdev.gif">
 
 - 🔭 I’m currently working on **PT KLIK DATA INDONESIA**
 
