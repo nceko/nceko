@@ -6,9 +6,9 @@
 
 <img align="right" alt="coding" width="400" src="https://rajacepat.com/assets/frontend/img/iOSdev.gif">
 
-- 🔭 I’m currently working on **PT KLIK DATA INDONESIA**
+- 🔭 I’m currently working on **PT BARAKA SARANA TAMA**
 
-- 🌱 I’m currently learning **SpringBoot, Larave, Flask**
+- 🌱 I’m currently learning **Laravel, SpringBoot, Go**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nceko](https://github.com/nceko)
 
