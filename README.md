@@ -2,15 +2,17 @@
 
 ###
 
-<p align="left">My name is Eko Hidayat and I'm a Software Engineer, from DKI Jakarta, Indonesia</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left"><br>🔭 I'm currently working on PT BARAKA SARANA TAMA<br>📚 I'm currently learning Nuxt JS, GO, SpringBoot<br>✨ Starting The Developer Journey Since 2019<br>📍 Available at Jaktim, DKI Jakarta, Indonesia<br>🎲 Fun fact: I Love Coffee ☕ and Cats 🐱</p>
+<p align="left">🧔🏻 My name is Eko Hidayat<br>🔭 I'm currently working on PT BARAKA SARANA TAMA<br>📚 I'm currently learning Nuxt JS, GO, SpringBoot<br>✨ Starting The Developer Journey Since 2019<br>📍 Available at Jaktim, DKI Jakarta, Indonesia<br>🎲 Fun fact: I Love Coffee ☕ and Cats 🐱</p>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nceko.nceko&left_color=azure&right_color=aqua"  />
+</div>
 
 ###
 
