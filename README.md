@@ -26,7 +26,7 @@
 <p align="left"><b>🖥️ Frontend | ⚙️ Backend</b></p>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nextjs,vue,nuxtjs" height="40" />
-  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='40' height='40'><line x1='20' y1='0' x2='20' y2='40' stroke='%23ccc' stroke-width='4'/></svg>" height="40" />
+  <span style="font-size:40px;line-height:40px;">┃</span> 
   <img src="https://skillicons.dev/icons?i=laravel,nodejs,flask,spring,go" height="40" />
 </div>
 
@@ -34,7 +34,7 @@
 <p align="left"><b>🗃️ Database | 🛠️ Tools & DevOps</b></p>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=sqlite,mongodb,mysql,postgres" height="40" />
-  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='40' height='40'><line x1='20' y1='0' x2='20' y2='40' stroke='%23ccc' stroke-width='4'/></svg>" height="40" />
+  <span style="font-size:40px;line-height:40px;">┃</span> 
   <img src="https://skillicons.dev/icons?i=docker,grafana,github,gitlab,idea,webstorm,vscode" height="40" />
 </div>
 
