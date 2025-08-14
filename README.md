@@ -57,6 +57,10 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nceko&radius=5&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nceko/nceko/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nceko/nceko/output/pacman-contribution-graph.svg">
