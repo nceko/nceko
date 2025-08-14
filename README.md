@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I'm currently working on PT BARAKA SARANA TAMA<br>📚 I'm currently learning Nuxt JS, GO, SpringBoot<br>✨ Starting The Developer Journey Since 2019<br>🎲 Fun fact: I Love Coffee ☕ and Cats 🐱</p>
+<p align="left"><br>🔭 I'm currently working on PT BARAKA SARANA TAMA<br>📚 I'm currently learning Nuxt JS, GO, SpringBoot<br>✨ Starting The Developer Journey Since 2019<br>📍 Available at Jaktim, DKI Jakarta, Indonesia<br>🎲 Fun fact: I Love Coffee ☕ and Cats 🐱</p>
 
 ###
 
@@ -35,7 +35,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=sqlite,mongodb,mysql,postgres" height="40" />
   <span style="font-size:40px;line-height:40px;">┃</span> 
-  <img src="https://skillicons.dev/icons?i=docker,grafana,github,gitlab,idea,webstorm,vscode" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker,grafana,github,gitlab,idea,webstorm,vscode,postman" height="40" />
 </div>
 
 ###
