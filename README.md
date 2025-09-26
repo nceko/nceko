@@ -47,7 +47,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nceko&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gruvbox&hide_border=false&order=2&custom_title=Top%2010%20Language" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nceko&show_private=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gruvbox&hide_border=false&order=2&custom_title=Top%2010%20Language" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=nceko&locale=en&mode=weekly&theme=gruvbox&hide_border=false&border_radius=6&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
 
